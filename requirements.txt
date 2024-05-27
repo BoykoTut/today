@@ -1,3 +1,7 @@
 streamlit
 pandas
 matplotlib
+train_test_split
+DecisionTreeClassifier
+GaussianNB
+RandomForestClassifier
